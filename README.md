@@ -4,7 +4,7 @@
     </span>
     <span style="background-color: white; padding: 10px; border-radius: 15px; display: inline-block;">
         <img src="/public/assets/images/Primary-Secondary.png" width="400" alt="Laravel Logo" style="border-radius: 15px;">
-    </span>
+    </span> 
 </p>
 
 
